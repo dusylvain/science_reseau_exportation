@@ -66,7 +66,7 @@ country_code;country_name_abbreviation;country_name_full;iso_2digit_alpha;iso_3d
 238;Falkland Isds (Malvinas);Falkland Islands (Malvinas);FK;FLK
 242;Fiji;Fiji;FJ;FJI
 246;Finland;Finland;FI;FIN
-251;France;France, Monaco;FR;FRA
+251;France;France et Monaco;FR;FRA
 258;French Polynesia;French Polynesia;PF;PYF
 260;Fr. South Antarctic Terr.;French South Antarctic Territories;FQ;ATF
 262;Djibouti;Djibouti;DJ;DJI
@@ -87,7 +87,7 @@ country_code;country_name_abbreviation;country_name_full;iso_2digit_alpha;iso_3d
 328;Guyana;Guyana;GY;GUY
 332;Haiti;Haiti;HT;HTI
 340;Honduras;Honduras;HN;HND
-344;China, Hong Kong SAR;China, Hong Kong Special Administrative Region;HK;HKG
+344;China and Hong Kong SAR;China and Hong Kong Special Administrative Region;HK;HKG
 348;Hungary;Hungary;HU;HUN
 352;Iceland;Iceland;IS;ISL
 360;Indonesia;Indonesia;ID;IDN
@@ -112,7 +112,7 @@ country_code;country_name_abbreviation;country_name_full;iso_2digit_alpha;iso_3d
 430;Liberia;Liberia;LR;LBR
 434;Libya;Libya;LY;LBY
 440;Lithuania;Lithuania;LT;LTU
-446;China, Macao SAR;China, Macao Special Administrative Region;MO;MAC
+446;China- Macao SAR;China- Macao Special Administrative Region;MO;MAC
 450;Madagascar;Madagascar;MG;MDG
 454;Malawi;Malawi;MW;MWI
 458;Malaysia;Malaysia;MY;MYS
@@ -122,7 +122,7 @@ country_code;country_name_abbreviation;country_name_full;iso_2digit_alpha;iso_3d
 478;Mauritania;Mauritania;MR;MRT
 480;Mauritius;Mauritius;MU;MUS
 484;Mexico;Mexico;MX;MEX
-490;Other Asia, nes;Other Asia, not elsewhere specified;N/A;N/A
+490;Other Asia- nes;Other Asia- not elsewhere specified;N/A;N/A
 496;Mongolia;Mongolia;MN;MNG
 498;Rep. of Moldova;Republic of Moldova;MD;MDA
 499;Montenegro;Montenegro;ME;MNE
@@ -137,7 +137,7 @@ country_code;country_name_abbreviation;country_name_full;iso_2digit_alpha;iso_3d
 531;Curaçao;Curaçao;CW;CUW
 533;Aruba;Aruba;AW;ABW
 534;Saint Maarten;Saint Maarten (Dutch part);SX;SXM
-535;Bonaire;Bonaire, Saint Eustatius and Saba;BQ;BES
+535;Bonaire;Bonaire- Saint Eustatius and Saba;BQ;BES
 540;New Caledonia;New Caledonia;NC;NCL
 548;Vanuatu;Vanuatu;VU;VUT
 554;New Zealand;New Zealand;NZ;NZL
@@ -146,7 +146,7 @@ country_code;country_name_abbreviation;country_name_full;iso_2digit_alpha;iso_3d
 566;Nigeria;Nigeria;NG;NGA
 570;Niue;Niue;NU;NIU
 574;Norfolk Isds;Norfolk Islands;NF;NFK
-579;Norway;Norway, Svalbard and Jan Mayen;NO;NOR
+579;Norway;Norway- Svalbard and Jan Mayen;NO;NOR
 580;N. Mariana Isds;Northern Mariana Islands;MP;MNP
 583;FS Micronesia;Federated State of Micronesia;FM;FSM
 584;Marshall Isds;Marshall Islands;MH;MHL
@@ -180,7 +180,7 @@ country_code;country_name_abbreviation;country_name_full;iso_2digit_alpha;iso_3d
 688;Serbia;Serbia;RS;SRB
 690;Seychelles;Seychelles;SC;SYC
 694;Sierra Leone;Sierra Leone;SL;SLE
-697;Europe EFTA, nes;Europe EFTA, not elsewhere specified;N/A;N/A
+697;Europe EFTA- nes;Europe EFTA- not elsewhere specified;N/A;N/A
 699;India;India;IN;IND
 702;Singapore;Singapore;SG;SGP
 703;Slovakia;Slovakia;SK;SVK
@@ -195,7 +195,7 @@ country_code;country_name_abbreviation;country_name_full;iso_2digit_alpha;iso_3d
 736;Fmr Sudan;Former Sudan;SD;SDN
 740;Suriname;Suriname;SR;SUR
 752;Sweden;Sweden;SE;SWE
-757;Switzerland;Switzerland, Liechtenstein;CH;CHE
+757;Switzerland;Switzerland- Liechtenstein;CH;CHE
 760;Syria;Syria;SY;SYR
 762;Tajikistan;Tajikistan;TJ;TJK
 764;Thailand;Thailand;TH;THA
@@ -216,7 +216,7 @@ country_code;country_name_abbreviation;country_name_full;iso_2digit_alpha;iso_3d
 818;Egypt;Egypt;EG;EGY
 826;United Kingdom;United Kingdom;GB;GBR
 834;United Rep. of Tanzania;United Republic of Tanzania;TZ;TZA
-842;USA;USA, Puerto Rico and US Virgin Islands;US;USA
+842;USA;USA- Puerto Rico and US Virgin Islands;US;USA
 854;Burkina Faso;Burkina Faso;BF;BFA
 858;Uruguay;Uruguay;UY;URY
 860;Uzbekistan;Uzbekistan;UZ;UZB
